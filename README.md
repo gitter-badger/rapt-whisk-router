@@ -1,5 +1,7 @@
 # Whisk
 
+[![Join the chat at https://gitter.im/jpitts/rapt-whisk-router](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jpitts/rapt-whisk-router?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A framework for building real-time web systems using Cipher and socket.io.
 
 # Status
